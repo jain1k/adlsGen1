@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "dataLakeStoreName": {
-        "value": "GEN-UNIQUE"
+        "value": "adlsgen1kptest1"
       },
       "keyVaultName": {
-        "value": "GEN-KEYVAULT-NAME"
+        "value": "KPkv1"
       },
       "keyVaultResourceGroupName": {
-        "value": "GEN-KEYVAULT-RESOURCEGROUP-NAME"
+        "value": "comSVC"
       },
       "keyName": {
-        "value": "GEN-KEYVAULT-ENCRYPTION-KEY"
+        "value": "adlsGen1Key"
       },
       "keyVersion": {
-        "value": "GEN-KEYVAULT-ENCRYPTION-KEY-VERSION"
+        "value": "f36f07a10c874f05aebd56a5a3fdbad0"
       }
     }
 }

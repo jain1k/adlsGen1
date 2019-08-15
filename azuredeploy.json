@@ -4,7 +4,7 @@
     "parameters": {
         "dataLakeStoreName": {
             "type": "string",
-            "defaultValue": "adlsgen1kptest1",
+            "defaultValue": "adlsgen1kptest12345",
             "metadata": {
                 "description": "The name of the Data Lake Store account to create."
             }
@@ -16,7 +16,7 @@
                 "centralus",
                 "northeurope"
             ],
-            "defaultValue": "eastus2",
+            "defaultValue": "centralus",
             "metadata": {
                 "description": "The location in which to create the Data Lake Store account."
             }
